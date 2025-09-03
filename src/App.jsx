@@ -19,7 +19,7 @@ export default function App() {
             {/* ✅ Image now shows only in home view */}
             <img
               className="w-40 mx-auto rounded-full h-40 mb-6"
-              src="src/images/milka.jpg"
+              src="https://firebasestorage.googleapis.com/v0/b/comrade-trends.appspot.com/o/milka.jpg?alt=media&token=4bd86463-c7ae-4413-b634-0628c0929ce5"
               alt="Milka"
             />
 

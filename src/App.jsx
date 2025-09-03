@@ -46,7 +46,7 @@ export default function App() {
             <button
               onClick={() =>
                 window.open(
-                  "https://drive.google.com/file/d/10F3pPljDjpk6uuKdd4Z8s6NhM1U38FWv/view?usp=sharing",
+                  "https://qr.scanned.page/uploads/pdf/1756935684348_X9QsLo.pdf",
                   "_blank"
                 )
               }

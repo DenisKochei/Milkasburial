@@ -4,8 +4,8 @@ export default function App() {
   const [view, setView] = useState("menu"); // menu | livestream | tributes | eulogy | directions
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-900 text-white p-6">
-      <div className="w-full max-w-md bg-gradient-to-b from-gray-800 to-gray-700 p-6 rounded-2xl shadow-lg">
+    <div className="min-h-screen flex items-center justify-center bg-gray-900 text-white p-1">
+      <div className="w-full max-w-md bg-gradient-to-b from-gray-800 to-gray-700 p-1 rounded-2xl shadow-lg">
         <h1 className="text-xl font-bold text-center mb-6">
           Milka Chepchirchir Koech's Burial
         </h1>

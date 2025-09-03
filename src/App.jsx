@@ -63,7 +63,7 @@ export default function App() {
             </button>
 
             <button
-              onClick={() => window.open("https://drive.google.com/file/d/19csmcdwl7rpG1452aXcOBaEEqgx8csOd/view?usp=sharing", "_blank")}
+              onClick={() => window.open("https://qr.scan.page/uploads/pdf/1756936932434_KH0mU6.pdf", "_blank")}
               className="w-full px-4 py-3 rounded-full border border-gray-600 hover:bg-gray-800 transition"
             >
               Thursday Program

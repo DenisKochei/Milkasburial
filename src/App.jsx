@@ -56,13 +56,6 @@ export default function App() {
             </button>
 
             <button
-              onClick={() => window.open("https://example.com/highlights", "_blank")}
-              className="w-full px-4 py-3 rounded-full border border-gray-600 hover:bg-gray-800 transition"
-            >
-              Milka’s Life Highlights
-            </button>
-
-            <button
               onClick={() => window.open("https://example.com/friday-program", "_blank")}
               className="w-full px-4 py-3 rounded-full border border-gray-600 hover:bg-gray-800 transition"
             >
@@ -70,14 +63,7 @@ export default function App() {
             </button>
 
             <button
-              onClick={() => window.open("https://example.com/family-tributes", "_blank")}
-              className="w-full px-4 py-3 rounded-full border border-gray-600 hover:bg-gray-800 transition"
-            >
-              Family Video Tributes
-            </button>
-
-            <button
-              onClick={() => window.open("https://example.com/thursday-program", "_blank")}
+              onClick={() => window.open("https://drive.google.com/file/d/19csmcdwl7rpG1452aXcOBaEEqgx8csOd/view?usp=sharing", "_blank")}
               className="w-full px-4 py-3 rounded-full border border-gray-600 hover:bg-gray-800 transition"
             >
               Thursday Program
@@ -111,7 +97,7 @@ export default function App() {
         {view === "directions" && (
           <div className="flex flex-col items-center w-full">
             <iframe
-              src="https://www.google.com/maps?q=0.52036,35.26978&hl=en&z=15&output=embed"
+              src="https://www.google.com/maps?q=0.874420,35.132154&hl=en&z=15&output=embed"
               title="Burial Directions"
               className="block w-full h-[500px] rounded-none border-0 m-0 p-0"
               allowFullScreen

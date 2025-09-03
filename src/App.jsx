@@ -120,7 +120,7 @@ export default function App() {
         {view === "eulogy" && (
           <div className="flex flex-col items-center">
             <iframe
-              src="https://drive.google.com/file/d/10F3pPljDjpk6uuKdd4Z8s6NhM1U38FWv/view?usp=sharing"
+              src="https://drive.google.com/file/d/10F3pPljDjpk6uuKdd4Z8s6NhM1U38FWv/preview"
               title="Eulogy PDF"
              className="block w-full h-[500px] rounded-none border-0 m-0 p-0"
               allow="autoplay"

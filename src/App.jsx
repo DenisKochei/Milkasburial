@@ -104,7 +104,7 @@ export default function App() {
             ></iframe>
 
             <a
-              href="https://www.google.com/maps?q=0.52036,35.26978"
+              href="https://www.google.com/maps?q=0.874420,35.132154"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-4 w-full px-4 py-3 rounded-full bg-blue-600 hover:bg-blue-500 transition text-center text-white"

@@ -85,7 +85,7 @@ export default function App() {
             </button>
 
             <button
-              onClick={() => window.open("https://example.com/thursday-livestream", "_blank")}
+              onClick={() => window.open("https://www.youtube.com/watch?v=RAbdo7zw--c", "_blank")}
               className="w-full px-4 py-3 rounded-full border border-gray-600 hover:bg-gray-800 transition"
             >
               Thursday Livestream

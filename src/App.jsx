@@ -57,9 +57,10 @@ export default function App() {
 
             <button
               onClick={() => window.open("https://example.com/friday-program", "_blank")}
+              disabled
               className="w-full px-4 py-3 rounded-full border border-gray-600 hover:bg-gray-800 transition"
             >
-              Friday Program
+              Friday Program ( Coming Soon)
             </button>
 
             <button
@@ -71,9 +72,10 @@ export default function App() {
 
             <button
               onClick={() => window.open("https://example.com/life-and-times", "_blank")}
+              disabled
               className="w-full px-4 py-3 rounded-full border border-gray-600 hover:bg-gray-800 transition"
             >
-              Life and Times of Milka
+              Life and Times of Milka( Coming Soon)
             </button>
 
             {/* Directions stays inside app */}

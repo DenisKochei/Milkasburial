@@ -27,7 +27,7 @@ export default function App() {
             {/* Buttons that open in new tabs */}
             <button
               onClick={() =>
-                window.open("https://www.youtube.com/watch?v=2YBYRYkWbT0", "_blank")
+                window.open("https://www.youtube.com/live/h6AMBhUIilw", "_blank")
               }
               className="w-full px-4 py-3 rounded-full border border-gray-600 hover:bg-gray-800 transition"
             >
@@ -53,14 +53,6 @@ export default function App() {
               className="w-full px-4 py-3 rounded-full border border-gray-600 hover:bg-gray-800 transition"
             >
               Eulogy
-            </button>
-
-            <button
-              onClick={() => window.open("https://example.com/friday-program", "_blank")}
-              disabled
-              className="w-full px-4 py-3 rounded-full border border-gray-600 hover:bg-gray-800 transition"
-            >
-              Friday Program ( Coming Soon)
             </button>
 
             <button

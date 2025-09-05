@@ -63,7 +63,7 @@ export default function App() {
             </button>
 
             <button
-              onClick={() => window.open("https://drive.google.com/drive/folders/1ahJV_i02-KHEM20faHzO6dj2wv6yUpwF?usp=sharing", "_blank")}
+              onClick={() => window.open("https://photos.google.com/album/AF1QipNvr-GS4P3PMb5ZGgCHaI2LwuJrbP1xFmwq15ln", "_blank")}
               
               className="w-full px-4 py-3 rounded-full border border-gray-600 hover:bg-gray-800 transition"
             >

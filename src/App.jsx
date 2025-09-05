@@ -63,11 +63,11 @@ export default function App() {
             </button>
 
             <button
-              onClick={() => window.open("https://example.com/life-and-times", "_blank")}
-              disabled
+              onClick={() => window.open("https://drive.google.com/drive/folders/1ahJV_i02-KHEM20faHzO6dj2wv6yUpwF?usp=sharing", "_blank")}
+              
               className="w-full px-4 py-3 rounded-full border border-gray-600 hover:bg-gray-800 transition"
             >
-              Life and Times of Milka( Coming Soon)
+              Life and Times of Milka
             </button>
 
             {/* Directions stays inside app */}
